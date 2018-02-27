@@ -10,3 +10,6 @@ lxnam43th
 343434344
 dd chua lam gi ca,
 hnay thu 3
+dd
+thu 4, da sua
+da fix xong
